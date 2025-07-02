@@ -59,12 +59,13 @@
         }
       ],
       "drc_exclusions": [
-        "copper_edge_clearance|383517500|90640000|1722d039-0879-41e1-8142-468044f8dca5|7d25b071-0d43-44ef-9cd0-032f488cfe23",
-        "copper_edge_clearance|385917500|90640000|1722d039-0879-41e1-8142-468044f8dca5|34cb0c3a-e993-4503-b816-5efe4abb8117",
-        "copper_edge_clearance|72980000|150740000|b912c571-8958-4c66-9eb0-057e7c4476c6|11eb877c-cc2d-401b-aee6-4897bde9ce8d",
-        "copper_edge_clearance|75380002|150740000|b912c571-8958-4c66-9eb0-057e7c4476c6|21563cd7-0040-4e50-bc7b-26d70ee71164",
-        "copper_edge_clearance|89575000|140724998|d9ad157c-8e3f-488f-992d-b0dc4674141b|a456eb62-431b-4b45-9b26-685b8854104e",
-        "copper_edge_clearance|89575000|143125000|d9ad157c-8e3f-488f-992d-b0dc4674141b|689b6970-e032-498b-a298-870889dcd9bc",
+        "copper_edge_clearance|383967500|90340000|927c52a8-d0e6-4b86-88a4-cd9719e2dffa|2fe4f96f-6c3a-46b2-99d4-add3aa81340b",
+        "copper_edge_clearance|385467500|90340000|927c52a8-d0e6-4b86-88a4-cd9719e2dffa|96e39a95-5463-4303-8196-55201822f5b2",
+        "copper_edge_clearance|70914645|148324696|27693feb-e3a0-469c-9f44-f6f305cf2807|a575860c-8b5a-4963-8c27-8cb04a23cb16",
+        "copper_edge_clearance|71939949|150339949|27693feb-e3a0-469c-9f44-f6f305cf2807|a2b4e76b-ff1f-46a4-91d4-45970786acc6",
+        "copper_edge_clearance|71975304|149385355|27693feb-e3a0-469c-9f44-f6f305cf2807|9dd5dcf5-756c-4ddc-9841-bebe3718ce79",
+        "copper_edge_clearance|88924696|145139645|8b75f940-01c7-47ec-9318-b90748c3d771|0e06a2c4-cb5b-450c-af40-ecad68620f9b",
+        "copper_edge_clearance|89985355|146200304|8b75f940-01c7-47ec-9318-b90748c3d771|91c2f0e0-f0c2-479b-a48f-3327164f9a8f",
         "hole_clearance|101348750|184987500|63d50b6b-a1e1-44da-b779-357351495aac|ee2f8ddb-f755-4035-8873-74be7f7d811e",
         "hole_clearance|125161250|184987500|ad19a4cf-2c2a-4ca9-838e-abe9702b0f2a|29966156-b1a2-4a27-8849-4bfd80c1fbf0",
         "hole_clearance|289467500|184987500|afdd1c6f-a613-4630-b66b-696a2b3081da|37b50527-e5d9-42bf-86cb-c2f1e80a9ff5",
@@ -539,7 +540,7 @@
       "idf": "",
       "netlist": "",
       "plot": "gerber/",
-      "pos_files": "",
+      "pos_files": "BOM & CPL/",
       "specctra_dsn": "",
       "step": "../../../Desktop/keycultTKL.step",
       "svg": "C:/Users/user/Desktop/",
@@ -598,11 +599,35 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

@@ -10962,7 +10962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 156.21 80.01 0)
 			(effects
 				(font
@@ -11850,7 +11850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 156.21 77.47 0)
 			(effects
 				(font
@@ -15595,7 +15595,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "300R"
 			(at 179.832 96.52 90)
 			(effects
 				(font
@@ -21874,7 +21874,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "300R"
 			(at 166.116 96.52 90)
 			(effects
 				(font
@@ -25337,7 +25337,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "300R"
 			(at 168.656 153.67 90)
 			(effects
 				(font
