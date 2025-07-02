@@ -1,4 +1,5 @@
 키컬트(Keycult) TKL 레플리카 PCB입니다. 
+![image](https://github.com/user-attachments/assets/379ba3d2-f667-4b87-bbcc-13621c5277ba)
 
 솔더링 버전이며, 아직 제작 후 제대로된 검증이 이뤄지지 않은 상태입니다!
 검수는 꼼꼼이 했습니다.
