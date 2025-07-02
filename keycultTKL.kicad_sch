@@ -12894,7 +12894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:E6CC1206CWAY1UDA"
+		(property "Footprint" "hjcustom:KT-0805W"
 			(at 171.45 160.02 0)
 			(effects
 				(font
@@ -17136,7 +17136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:E6CC1206CWAY1UDA"
+		(property "Footprint" "hjcustom:KT-0805W"
 			(at 168.91 102.87 0)
 			(effects
 				(font
@@ -24479,7 +24479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:E6CC1206CWAY1UDA"
+		(property "Footprint" "hjcustom:KT-0805W"
 			(at 173.99 102.87 0)
 			(effects
 				(font
