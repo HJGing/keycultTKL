@@ -19,6 +19,17 @@ KT-0805W LED를 구입해서 LED 자리에 납땜해주시면 됩니다. 타오�
 
 추가 필요 부품 : KT-0805W LED
 
-작동 확인 여부 : X
+작동 확인 여부 : 아직 확인되지 않음
 
+This is a replica PCB for the Keycult TKL.
 
+LEDs are not included.
+You can buy KT-0805W LEDs and solder them yourself.
+They’re easy to find on Taobao or AliExpress, and the soldering is even easier than doing switches.
+If you're okay with spending a bit more, I might offer a version with the LEDs pre-installed later on.
+
+This PCB does not support ISO layout.
+It might be added in a future version.
+
+Extra parts needed: KT-0805W LEDs
+Tested and working: Not verified yet
