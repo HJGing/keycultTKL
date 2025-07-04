@@ -9217,7 +9217,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 491.49 91.44 90)
 			(effects
 				(font
@@ -9305,7 +9305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 314.96 109.22 90)
 			(effects
 				(font
@@ -9393,7 +9393,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 436.88 55.88 90)
 			(effects
 				(font
@@ -9749,7 +9749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 436.88 109.22 90)
 			(effects
 				(font
@@ -9837,7 +9837,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 375.92 55.88 90)
 			(effects
 				(font
@@ -9925,7 +9925,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 345.44 127 90)
 			(effects
 				(font
@@ -10013,7 +10013,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 406.4 127 90)
 			(effects
 				(font
@@ -10101,7 +10101,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 375.92 73.66 90)
 			(effects
 				(font
@@ -10189,7 +10189,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 521.97 73.66 90)
 			(effects
 				(font
@@ -10410,7 +10410,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 330.2 109.22 90)
 			(effects
 				(font
@@ -10498,7 +10498,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 421.64 73.66 90)
 			(effects
 				(font
@@ -10655,7 +10655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 254 55.88 90)
 			(effects
 				(font
@@ -10743,7 +10743,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 284.48 144.78 90)
 			(effects
 				(font
@@ -11233,7 +11233,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 269.24 73.66 90)
 			(effects
 				(font
@@ -11321,7 +11321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 345.44 55.88 90)
 			(effects
 				(font
@@ -11409,7 +11409,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 269.24 91.44 90)
 			(effects
 				(font
@@ -11631,7 +11631,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 284.48 55.88 90)
 			(effects
 				(font
@@ -12741,7 +12741,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 391.16 73.66 90)
 			(effects
 				(font
@@ -12964,7 +12964,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 391.16 144.78 90)
 			(effects
 				(font
@@ -13118,7 +13118,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 330.2 91.44 90)
 			(effects
 				(font
@@ -13544,7 +13544,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 467.36 73.66 90)
 			(effects
 				(font
@@ -13699,7 +13699,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 406.4 73.66 90)
 			(effects
 				(font
@@ -14022,7 +14022,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 506.73 73.66 90)
 			(effects
 				(font
@@ -14110,7 +14110,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 284.48 109.22 90)
 			(effects
 				(font
@@ -14671,7 +14671,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 406.4 109.22 90)
 			(effects
 				(font
@@ -14825,7 +14825,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 375.92 127 90)
 			(effects
 				(font
@@ -14980,7 +14980,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 345.44 109.22 90)
 			(effects
 				(font
@@ -15065,7 +15065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm"
+		(property "Footprint" "hjcustom:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm"
 			(at 50.8 127 0)
 			(effects
 				(font
@@ -15208,7 +15208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 506.73 91.44 90)
 			(effects
 				(font
@@ -15363,7 +15363,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 314.96 73.66 90)
 			(effects
 				(font
@@ -15451,7 +15451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 421.64 91.44 90)
 			(effects
 				(font
@@ -15874,7 +15874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 452.12 73.66 90)
 			(effects
 				(font
@@ -16230,7 +16230,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 284.48 127 90)
 			(effects
 				(font
@@ -16385,7 +16385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 421.64 55.88 90)
 			(effects
 				(font
@@ -16473,7 +16473,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 345.44 91.44 90)
 			(effects
 				(font
@@ -16694,7 +16694,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 491.49 73.66 90)
 			(effects
 				(font
@@ -16983,7 +16983,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 254 91.44 90)
 			(effects
 				(font
@@ -17206,7 +17206,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 521.97 55.88 90)
 			(effects
 				(font
@@ -17294,7 +17294,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 299.72 73.66 90)
 			(effects
 				(font
@@ -17382,7 +17382,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 360.68 55.88 90)
 			(effects
 				(font
@@ -17803,7 +17803,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 491.49 144.78 90)
 			(effects
 				(font
@@ -17891,7 +17891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 436.88 144.78 90)
 			(effects
 				(font
@@ -17979,7 +17979,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 436.88 73.66 90)
 			(effects
 				(font
@@ -18067,7 +18067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 360.68 109.22 90)
 			(effects
 				(font
@@ -18155,7 +18155,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 254 73.66 90)
 			(effects
 				(font
@@ -18243,7 +18243,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 360.68 127 90)
 			(effects
 				(font
@@ -18331,7 +18331,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 284.48 91.44 90)
 			(effects
 				(font
@@ -18489,7 +18489,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 375.92 91.44 90)
 			(effects
 				(font
@@ -18577,7 +18577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 299.72 109.22 90)
 			(effects
 				(font
@@ -18664,7 +18664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "hjcustom:SOIC-8_5.23x5.23mm_P1.27mm"
 			(at 57.15 66.04 0)
 			(effects
 				(font
@@ -18752,7 +18752,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 521.97 144.78 90)
 			(effects
 				(font
@@ -18840,7 +18840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 421.64 127 90)
 			(effects
 				(font
@@ -19062,7 +19062,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 314.96 127 90)
 			(effects
 				(font
@@ -19150,7 +19150,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 269.24 144.78 90)
 			(effects
 				(font
@@ -19238,7 +19238,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 506.73 55.88 90)
 			(effects
 				(font
@@ -19393,7 +19393,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 360.68 73.66 90)
 			(effects
 				(font
@@ -19548,7 +19548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 421.64 144.78 90)
 			(effects
 				(font
@@ -19775,7 +19775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 254 127 90)
 			(effects
 				(font
@@ -19863,7 +19863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 391.16 109.22 90)
 			(effects
 				(font
@@ -20021,7 +20021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 467.36 55.88 90)
 			(effects
 				(font
@@ -20514,7 +20514,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 299.72 91.44 90)
 			(effects
 				(font
@@ -21080,7 +21080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 391.16 127 90)
 			(effects
 				(font
@@ -21309,7 +21309,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 254 144.78 90)
 			(effects
 				(font
@@ -21463,7 +21463,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 330.2 127 90)
 			(effects
 				(font
@@ -21952,7 +21952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 360.68 91.44 90)
 			(effects
 				(font
@@ -22175,7 +22175,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 330.2 55.88 90)
 			(effects
 				(font
@@ -22396,7 +22396,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 521.97 91.44 90)
 			(effects
 				(font
@@ -22751,7 +22751,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 491.49 55.88 90)
 			(effects
 				(font
@@ -22909,7 +22909,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 391.16 55.88 90)
 			(effects
 				(font
@@ -23198,7 +23198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 299.72 55.88 90)
 			(effects
 				(font
@@ -23286,7 +23286,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 375.92 109.22 90)
 			(effects
 				(font
@@ -23374,7 +23374,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 314.96 55.88 90)
 			(effects
 				(font
@@ -23594,7 +23594,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 284.48 73.66 90)
 			(effects
 				(font
@@ -23749,7 +23749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 269.24 109.22 90)
 			(effects
 				(font
@@ -24041,7 +24041,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 269.24 127 90)
 			(effects
 				(font
@@ -24327,7 +24327,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 452.12 91.44 90)
 			(effects
 				(font
@@ -24549,7 +24549,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 330.2 144.78 90)
 			(effects
 				(font
@@ -24704,7 +24704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 452.12 55.88 90)
 			(effects
 				(font
@@ -24792,7 +24792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 506.73 144.78 90)
 			(effects
 				(font
@@ -25014,7 +25014,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 330.2 73.66 90)
 			(effects
 				(font
@@ -25172,7 +25172,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 314.96 91.44 90)
 			(effects
 				(font
@@ -25260,7 +25260,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 406.4 91.44 90)
 			(effects
 				(font
@@ -25613,7 +25613,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 391.16 91.44 90)
 			(effects
 				(font
@@ -25768,7 +25768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 345.44 73.66 90)
 			(effects
 				(font
@@ -25856,7 +25856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 254 109.22 90)
 			(effects
 				(font
@@ -26011,7 +26011,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 421.64 109.22 90)
 			(effects
 				(font
@@ -26099,7 +26099,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 406.4 144.78 90)
 			(effects
 				(font
@@ -26187,7 +26187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 436.88 91.44 90)
 			(effects
 				(font
@@ -26809,7 +26809,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 506.73 127 90)
 			(effects
 				(font
@@ -26964,7 +26964,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 436.88 127 90)
 			(effects
 				(font
@@ -27052,7 +27052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123_noref2"
 			(at 299.72 127 90)
 			(effects
 				(font

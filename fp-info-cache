@@ -1,4 +1,4 @@
-26971279533166975
+26976548327263291
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97083,6 +97083,13 @@ SOD-123
 2
 2
 ScottoKeebs_Components
+Diode_SOD-123_noref2
+SOD-123
+SOD-123
+0
+2
+2
+ScottoKeebs_Components
 LED_SK6812MINI
 
 
@@ -99765,6 +99772,13 @@ MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
 2
 ScottoKeebs_MX
 MX_PCB_1.00u_NoSilkscreen3
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.00u_NoSilkscreen4
 MX keyswitch PCB Mount Keycap 1.00u
 MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
 0
@@ -108373,6 +108387,13 @@ PJ-327
 0
 4
 4
+hjcustom
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
 hjcustom
 SS12D
 
